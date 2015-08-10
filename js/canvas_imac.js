@@ -265,7 +265,7 @@ CanvasImac.prototype.scrollUp = function () {
     var range = Math.abs(max_top_zoom_up) + Math.abs(max_top_zoom_down);
     var x = (new_width * 100) / width_max;
     var x_in_context = (x * range) / 100;
-    var move_to_top = - (x_in_context - Math.abs(max_top_zoom_down));
+    var move_to_top = -(x_in_context - Math.abs(max_top_zoom_down));
 
     canvas.style.top = move_to_top + "px";
     canvas.style.width = new_width + "px";
