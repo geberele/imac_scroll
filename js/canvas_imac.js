@@ -92,7 +92,7 @@ function CanvasImac(options) {
     function (sources) {
       for (var src in sources) {
         if (sources.hasOwnProperty(src) && sources[src].image) {
-          context.drawImage(sources[src].image, sources[src].swidth, sources[src].sheight, 1625, 2306);
+          context.drawImage(sources[src].image, sources[src].swidth, sources[src].sheight, width_image / 4, height_image / 2);
         }
       }
     }
