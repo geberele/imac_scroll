@@ -1,5 +1,5 @@
 /**
- * This script reproduces a similar effect used by Apple in the iMac page of his website.
+ * This script reproduces a similar effect used by Apple in the iMac page of its website.
  *
  * For the example the script uses the original iMac images:
  * - http://images.apple.com/v/imac-with-retina/a/images/overview/intro_large_r1_c1_2x_27.jpg
