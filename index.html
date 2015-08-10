@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <style>
+      div {
+        width: 100%;
+        text-align: center;
+      }
+
+      div canvas {
+        position: absolute;
+        top: 0;
+        left: -50%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="my-canvas-container">
+      <canvas id="my-canvas"></canvas>
+    </div>
+
+    <script src="js/canvas_imac.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+      new CanvasImac({width_max: 5800, max_top_zoom_up: -1400});
+    </script>
+
+  </body>
+</html>
