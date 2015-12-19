@@ -15,7 +15,7 @@ After that the javascript functions replace the normal scroll events of the page
 
 ## Version 2.0
 
-[click here](http://en.geberele.com/show-cases/imac-scroll/index_v2.html) to view the demo of the version 2.
+[click here](http://dev.gabrielemanna.com/imac-scroll/index_v2.html) to view the demo of the version 2.
 
 ## How it is made
 The image is an high resolution image, it is possible to zoom in and zoom out without loosing definition and keeping all the details of the original image.
